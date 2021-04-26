@@ -112,6 +112,14 @@ body {
     height: 100%;
   }
 
+  #mobile-image {
+    display: none;
+  }
+
+  #desktop-image {
+    display: block;
+  }
+
   .card__description {
     text-align: left;
     margin: 5%;
